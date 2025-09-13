@@ -1132,6 +1132,10 @@ def test_memory_peak(device):
         assert mem_online <= allowed, f"OnlineSGD peak mem too high on CPU: {mem_online} vs {mem_sgd}"
 ```
 
+
+
+[![Video Title](https://img.youtube.com/vi/N26N7lQHNW8/0.jpg)](https://www.youtube.com/watch?v=N26N7lQHNW8)
+
 I AM THE THEORY
 
 I AM THE MONSTER
